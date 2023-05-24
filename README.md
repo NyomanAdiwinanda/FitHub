@@ -12,7 +12,9 @@ There's no need to switch between multiple apps or systems to keep track of vita
 
 <img width="400" alt="1" src="https://github.com/NyomanAdiwinanda/FitHub/assets/65802394/16b85117-f2df-42a3-82a0-bac1b0630a5b">
 <img width="400" alt="1" src="https://github.com/NyomanAdiwinanda/FitHub/assets/65802394/81932f33-bd91-45b8-80aa-8e3c51e4d917">
+<img width="400" alt="1" src="https://github.com/NyomanAdiwinanda/FitHub/assets/65802394/d3fdf0af-29b6-4b05-9a9f-c3269bc4061f">
 <img width="400" alt="1" src="https://github.com/NyomanAdiwinanda/FitHub/assets/65802394/f9e67285-fbff-4e44-907b-6715f85f490f">
+<img width="400" alt="1" src="https://github.com/NyomanAdiwinanda/FitHub/assets/65802394/5a159ca1-394c-4f27-8e52-640b988e9815">
 <img width="400" alt="1" src="https://github.com/NyomanAdiwinanda/FitHub/assets/65802394/70a4d968-c63b-4103-b4f3-1f6dd908dc60">
 <img width="400" alt="1" src="https://github.com/NyomanAdiwinanda/FitHub/assets/65802394/21c857a1-14a1-400e-b44f-570a2f9593cd">
 <img width="400" alt="1" src="https://github.com/NyomanAdiwinanda/FitHub/assets/65802394/1634ca03-20f1-4a4c-bd2c-62c0d1f30ef9">
